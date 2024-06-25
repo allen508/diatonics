@@ -1,0 +1,80 @@
+<doc>
+    <title>California Dreaming</title>
+	<instruments>
+		<instrument id="lead-guitar-1">Guitar</instrument>
+	</instruments>
+	<notes>
+		<note id="E2" name="E2" pitch="138"></note>
+		<note id="A2" name="A2" pitch="440"></note>
+	</notes>
+	<chords>
+		<chord id="Cmaj7" variation="1">
+			<bit id="E" name="E" signiture="Tonic" finger="1" />
+			<bit id="A" name="A" signiture="P4" finger="2" />
+		</chord>
+	</chords>
+	<tuning for="lead-guitar-1" type="guitar">
+		<tuned-to id="1" string="1" note-id="E2" />
+		<tuned-to id="2" string="2" note-id="A2" />
+	</tuning>
+	<score key-of="G">
+		<time-signiture>4/4</time-signiture>
+		<section id="1" type="block" name="Verse 1">
+			<section type="line">
+				<track type="lyric">All the leaves are brown</track>
+                <track type="chord">
+                    <chord-ref position="1" id="Cmaj7" />
+                    <chord-ref position="6" id="A7" />
+                </track>
+                <track type="strum-pattern">
+					<action direction="up" on="1" />
+					<action direction="down" on="2" />
+					<action direction="up" on="3" />
+				</track>
+				<track type="guitar-tab" instrument-ref="lead-guitar-1">
+					<apply position="1">
+						<play string="1" fret="0" attribute="hammer-on" />
+						<play string="2" fret="0" />
+						<play string="3" fret="2" />
+						<play string="4" fret="2" />
+						<play string="5" fret="2" />
+						<play string="6" fret="0" />
+					</apply>
+					<apply position="5">
+						<play string="1" fret="3" attribute="pitch-bend" />
+						<play string="2" fret="2" />
+						<play string="3" fret="0" />
+						<play string="4" fret="0" />
+						<play string="5" fret="0" />
+						<play string="6" fret="3" />
+					</apply>
+				</track>
+			</section>
+			<section type="line">
+				<track type="lyric">All the leaves are brown</track>
+                <track type="chord">
+                    <chord-ref position="1" id="Cmaj7" />
+                    <chord-ref position="6" id="A#" />
+                </track>
+				<track type="guitar-tab" instrument-ref="lead-guitar-1">
+					<apply position="3">
+						<play string="1" fret="0" attribute="hammer-on" />
+						<play string="2" fret="0" />
+						<play string="3" fret="2" />
+						<play string="4" fret="2" />
+						<play string="5" fret="2" />
+						<play string="6" fret="0" />
+					</apply>
+					<apply position="10">
+						<play string="1" fret="0" attribute="pitch-bend" />
+						<play string="2" fret="0" />
+						<play string="3" fret="2" />
+						<play string="4" fret="2" />
+						<play string="5" fret="12" />
+						<play string="6" fret="0" />
+					</apply>
+				</track>
+			</section>
+		</section>
+	</score>
+</doc>

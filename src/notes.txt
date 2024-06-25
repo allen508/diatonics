@@ -1,0 +1,3 @@
+Different pitch notation:
+ - Scientific - https://en.wikipedia.org/wiki/Scientific_pitch_notation
+ - Helmholtz - https://en.wikipedia.org/wiki/Helmholtz_pitch_notation

@@ -1,0 +1,1 @@
+export { default as TabEditor } from "./tabEditor.svelte";
