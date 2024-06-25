@@ -137,7 +137,7 @@
 
 </script>
 
-<svg width={width} height={height} viewBox="0 0 800 800">
+<svg width={width} height="100%" viewBox="0 0 800 800">
     <Annulus bind:this={modeRing} cx={cx} cy={cy} innerRadius={300} outerRadius={330} data={modeShapeData} clicked={onModeClick} type="modes" fontSize={18}></Annulus>
     <Annulus bind:this={noteRing} cx={cx} cy={cy} innerRadius={240} outerRadius={300} data={noteShapeData} clicked={onNoteClick} type="notes" fontSize={42}></Annulus>
     <Annulus bind:this={intervalRing} cx={cx} cy={cy} innerRadius={200} outerRadius={240} data={intervalShapeData} clicked={onIntervalClick} type="intervals" fontSize={20}></Annulus>
