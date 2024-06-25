@@ -99,6 +99,9 @@
     <div class="flex flex-nowrap">
         <Circle bind:this={circle} key={1} mode={1}></Circle>
     </div>
+    <div class="flex flex-nowrap w-full ml-5">
+        Tap letters on the circle...
+    </div>
 
 </div>
 
