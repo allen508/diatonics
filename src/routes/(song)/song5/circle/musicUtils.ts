@@ -2,16 +2,16 @@
 export const tones: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
 export const intervals: any[] = [
-    {index: 1, name: "Root"},
+    {index: 1, name: "Root / 8th"},
     {index: 2, name: "Flat 2nd"},
-    {index: 3, name: "2nd"},
+    {index: 3, name: "2nd / 9th"},
     {index: 4, name: "Flat 3rd"},
     {index: 5, name: "3rd"},
-    {index: 6, name: "Perfect 4th"},
+    {index: 6, name: "P 4th / 11th"},
     {index: 7, name: "Tritone"},
-    {index: 8, name: "Perfect 5th"},
+    {index: 8, name: "P 5th"},
     {index: 9, name: "Flat 6th"},
-    {index: 10, name: "6th"},
+    {index: 10, name: "6th / 13th"},
     {index: 11, name: "Flat 7th"},
     {index: 12, name: "7th"}
 ];
