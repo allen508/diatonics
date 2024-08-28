@@ -12,7 +12,7 @@ Helps understand:
 
 - Scale is the pattern and labels (A, B, C, etc...) applied to the 12 TET (12 Tonal Equal Temprements)
 - Root is note to centre the musical around
-- Mode is name given to each bit of the scale pattern
+- Mode is name given to each bit (degree) of the scale pattern
 - Key is the Root and Mode combination
 
 
