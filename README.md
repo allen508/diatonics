@@ -6,7 +6,7 @@ Helps understand:
 1. Notes that are in key
 2. Notes in modes
 3. First position triads
-4. Intervals 
+4. Intervals (click on note)
 
 
 ## DB commands
