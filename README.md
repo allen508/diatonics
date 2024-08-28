@@ -8,6 +8,13 @@ Helps understand:
 3. First position triads
 4. Intervals (click on note)
 
+# Notes
+
+- Scale is the pattern and labels (A, B, C, etc...) applied to the 12 TET (12 Tonal Equal Temprements)
+- Root is note to centre the musical around
+- Mode is name given to each bit of the scale pattern
+- Key is the Root and Mode combination
+
 
 ## DB commands
 
