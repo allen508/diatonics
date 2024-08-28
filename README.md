@@ -8,6 +8,14 @@ Helps understand:
 3. First position triads
 4. Intervals (click on note)
 
+Can easily find:
+1. The notes on a scale
+2. The intervals on a key
+3. The chords diatonic to a scale
+4. The chord progressions through a key
+5. All flavours of a chord (Triad, Extended, etc...)
+
+
 # Notes
 
 - Scale is the pattern and labels (A, B, C, etc...) applied to the 12 TET (12 Tonal Equal Temprements)
