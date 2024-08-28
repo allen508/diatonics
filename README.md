@@ -2,7 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/53bf3d98-15b2-4f0d-b2c7-b898625160ee)
 
-
+Helps understand:
+1. Notes that are in key
+2. Notes in modes
+3. First position triads
+4. Intervals 
 
 
 ## DB commands
