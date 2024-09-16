@@ -1,6 +1,6 @@
 # Demo
 
-![Demo](https://rococo-trifle-2ec14a.netlify.app/song5/)
+[Demo](https://rococo-trifle-2ec14a.netlify.app/song5/)
 
 # Diatonic helper
 
